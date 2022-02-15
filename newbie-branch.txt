@@ -1,5 +1,5 @@
 new branch file begin
 line 2
 line 3
-line 4
-etc.
+line previously here is now gone
+now line 5
