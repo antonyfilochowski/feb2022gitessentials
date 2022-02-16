@@ -1,7 +1,5 @@
-# feb2022gitessentials
-loren bacall
-### bigger still...
-## new lines
-of text
-#right here
-###more new lines
+file being changed to account for
+pull requests
+removing all previous text
+and introducing a
+##new block of text
